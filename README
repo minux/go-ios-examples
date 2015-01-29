@@ -1,0 +1,6 @@
+This repository hosts some example applications for Go on iOS.
+
+Because the unified build tool for Go on mobile operating systems
+(Android and iOS) is not ready yet, in each *.app directory,
+there will be build.sh that builds the application. Feel free
+to customize them.
